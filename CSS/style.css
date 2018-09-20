@@ -1,0 +1,28 @@
+
+* {
+	text-align: right;
+}
+
+body {	
+	background-image: url(smile.png);
+	background-size: cover;
+}
+h2 , p{
+	color: #AA3149;
+	text-align: center;
+	border:	5px solid purple;
+	cursor: pointer;
+
+}
+
+p {
+	color: pink;
+}
+li {
+	display: inline-block;
+	list-style: none;
+}
+
+.webtext {
+	border: 5px dashed pink;
+}

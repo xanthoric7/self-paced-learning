@@ -1,0 +1,38 @@
+/*.btn-danger {
+	background-color: orange;
+}
+
+.btn-danger:hover {
+	background-color: black;
+}*/
+
+body {
+	background-image: url('plants.jpg');
+	background-repeat: no-repeat;
+	align-content: center;
+	font-family: 'Noto Serif JP', sans-serif;
+	font-size: 20;
+	font-weight: bolder;
+	color: white;
+}
+
+.container-fluid {
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+}
+
+.col {
+	/*background-color: grey*/;
+	text-align: center;
+	align-content: center;
+/*	border: 2px solid yellow;*/
+}
+
+.row {
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+/*	border: 2px solid black;*/
+}
+
